@@ -1,0 +1,6 @@
+Kyle Anthony McAdam (Role: CSS programmer)
+Nandipha Ndlovu (Role: UI/UX designer)
+Aluta Jakuja(Role: Author of "Evolution of the Internet" and "Internet Protocols")
+Francois Jacobus Roos(Role: Author of "Overview of the World Wide Web" and "History of the Internet")
+Ian Alexander Jacobs(Role: Author of "The Web vs The Internet" and "Web Application Architecture")
+Tiaan van Rooyen(Role: Author of "Client-Serverside Engineering" and creator of Home page)
